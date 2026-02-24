@@ -12,7 +12,7 @@ maintainer:  # `IIBankII` is required, and exactly one of `github`, `gitlab`, or
 
 # EVE ONE
 
-- [🌐 **App**](https://app.eveo.cc)
+- [🌐 **ACCESS THE APP NOW!**](https://app.eveo.cc)
 - [👤 **Maintainer: IIBankII**](https://forums.eveonline.com/u/iibankii/)
 
 ---
@@ -21,7 +21,7 @@ maintainer:  # `IIBankII` is required, and exactly one of `github`, `gitlab`, or
 
 EVE ONE is a web-based portal for EVE Online capsuleers. It pulls live data directly from ESI and gives you access to your characters, mail, assets, fittings, market, killboard, corporation info, and more — all in one place, with two AI assistants built right in.
 
-![Login](images/login.png)
+![Login](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Login.png)
 
 ---
 
@@ -29,9 +29,9 @@ EVE ONE is a web-based portal for EVE Online capsuleers. It pulls live data dire
 
 ### 🖥️ Dashboard
 
-A quick overview of all your linked characters and their key stats at a glance.
+A quick overview of your selected linked character profile and the available tools at a glance.
 
-
+![Overview](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Overview.png)
 
 ---
 
@@ -39,7 +39,7 @@ A quick overview of all your linked characters and their key stats at a glance.
 
 Full character sheet for your active pilot — portrait, corporation, alliance, security status, attributes, implants, skill queue, total SP, employment history, faction standings, and jump clone locations.
 
-![Characters](images/characters.png)
+![Characters](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Character.png)
 
 ---
 
@@ -47,7 +47,7 @@ Full character sheet for your active pilot — portrait, corporation, alliance, 
 
 Read, compose, and send EVE mail from the browser. Supports inbox, sent, and corporation mail views, labels, mailing lists, and shows unread counts.
 
-![Mail](images/mail.png)
+![Mail](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Mail.png)
 
 ---
 
@@ -55,7 +55,7 @@ Read, compose, and send EVE mail from the browser. Supports inbox, sent, and cor
 
 Personal and corporation events synced from ESI. View event details, and accept, decline, or mark yourself as tentative without opening the game client.
 
-![Calendar](images/calendar.png)
+![Calendar](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Calendar.png)
 
 ---
 
@@ -63,7 +63,7 @@ Personal and corporation events synced from ESI. View event details, and accept,
 
 Your full contacts list with portraits, standing colors, and labels. Filter by standing, search by name, and view personal, corp, and alliance contacts together.
 
-![Contacts](images/contacts.png)
+![Contacts](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Contacts.png)
 
 ---
 
@@ -71,7 +71,7 @@ Your full contacts list with portraits, standing colors, and labels. Filter by s
 
 Every item you own across every station, structure, and ship in space. Grouped by location with expandable trees for containers and cargo holds, across all your linked characters.
 
-![Assets](images/assets.png)
+![Assets](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Assets.png)
 
 ---
 
@@ -79,7 +79,7 @@ Every item you own across every station, structure, and ship in space. Grouped b
 
 Browse all your ESI-saved ship fittings in one place.
 
-![Fittings](images/fittings.png)
+![Fittings](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Fitting.png)
 
 ---
 
@@ -99,7 +99,8 @@ A full in-browser fitting tool built around EVE's actual slot system.
 - Estimated fit value based on live market data
 - **BOB the Builder** — AI fitting assistant built into the simulator (see below)
 
-![Fit Simulator](images/fit-simulator.png)
+![Fit Simulator](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Simulator.png)
+![Fitted Ship](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/SimulatorPush.png)
 
 ---
 
@@ -107,7 +108,8 @@ A full in-browser fitting tool built around EVE's actual slot system.
 
 Live buy and sell orders, price history, and regional market data for any tradeable item in New Eden, pulled directly from ESI.
 
-![Market](images/market.png)
+![Market](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Market.png)
+![Market Items](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/MarketProducts.png)
 
 ---
 
@@ -115,7 +117,7 @@ Live buy and sell orders, price history, and regional market data for any tradea
 
 Your full kill and loss history across all linked characters — ship, opponent, location, ISK value, and date for every engagement.
 
-![Killboard](images/killboard.png)
+![Killboard](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Killboard.png)
 
 ---
 
@@ -123,7 +125,7 @@ Your full kill and loss history across all linked characters — ship, opponent,
 
 Corporation name, ticker, alliance, CEO, member count, description, active wars, and war history.
 
-![Corporation](images/corporation.png)
+![Corporation](https://github.com/VSKoen/esi-docs/blob/main/docs/community/eve-one/img/Corporation.png)
 
 ---
 
@@ -131,15 +133,11 @@ Corporation name, ticker, alliance, CEO, member count, description, active wars,
 
 AURA is EVE ONE's AI assistant for the main portal. When you start a conversation, she already has your live ESI data loaded — your location, ship, skills, wallet, assets, fittings, contacts, kill history, and corp affiliations — across all your linked characters. Switch alts in the sidebar and she updates her context automatically.
 
-![AURA](images/aura.png)
-
 ---
 
 ### 🔧 BOB the Builder
 
 BOB is the Advanced AI fitting nerd built into the Fit Simulator. He looks at what ship you have loaded and where you are in space, then builds a fit around your actual skills. His recommendations generate a fit block that loads directly into the simulator with one click — slots, modules, and all.
-
-![BOB the Builder](images/bob.png)
 
 ---
 
@@ -156,6 +154,7 @@ EVE ONE uses EVE SSO with PKCE. Your credentials never touch EVE ONE's servers �
 ---
 
 ## Legal
+Brought to you by IIBankII © 2026
 
 EVE ONE is an independent fan project. It is not affiliated with or endorsed by CCP hf.  
 EVE Online and all associated marks, logos, and assets are trademarks or registered trademarks of CCP hf.  
